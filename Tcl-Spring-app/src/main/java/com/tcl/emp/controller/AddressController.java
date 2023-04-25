@@ -55,4 +55,11 @@ public class AddressController {
 		
 		
 	}
+	@PostMapping("/employees")
+	public String Address(){
+		return "hiii";
+		
+	}
+
+		
 }
